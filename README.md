@@ -21,7 +21,7 @@ A simple and clean todo application built with Django 5.2.3 that allows users to
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd todoproject
+   cd django-todoapp
    ```
 
 2. **Create virtual environment** (recommended)
